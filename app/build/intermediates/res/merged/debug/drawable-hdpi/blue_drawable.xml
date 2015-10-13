@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:visible="true" android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient android:type="linear"
+        android:startColor="#000033"
+        android:endColor="#0000FF"
+        android:angle="135"/>
+</shape><!-- From: file:/C:/Users/admin/Downloads/SwipeToDismissDemo/app/src/main/res/drawable-hdpi/blue_drawable.xml -->
